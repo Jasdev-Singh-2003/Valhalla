@@ -1,0 +1,1081 @@
+/* Universal-Styles */
+*{
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #06151F;
+  background-image: url(Images/Other-Images/Star-Background.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 157%;
+  background-attachment: fixed;
+}
+/* Universal-Styles */
+
+/* Nav-Bar */
+.nav-bar-wrapper{
+  width: 100%;
+  height: 50px;
+  background-color: #000000;
+  position: relative;
+}
+
+.ubisoft-logo-navbar{
+  width: 85px;
+  position: absolute;
+  top: 10px;
+  left: 54px;
+}
+
+h4{
+  font-size: 16px;
+  color: #FFFFFF;
+  position: absolute;
+  text-transform: uppercase;
+  top: 15px;
+}
+
+.login{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 10px;
+  right: 55px;
+}
+
+.search-icon{
+  width: 30px;
+  height: 30px;
+  background-color: #242424;
+  border: none;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  right: 140px;
+}
+
+.search-icon img{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.download-icon{
+  width: 20px;
+  position: absolute;
+  top: 15px;
+  right: 225px;
+}
+
+.nav-bar-wrapper span{
+  font-size: 15px;
+  color: #FFFFFF;
+  font-weight: 600;
+  letter-spacing: 0.10px;
+  word-spacing: -1px;
+  text-transform: capitalize;
+  position: absolute;
+  top: 17.50px;
+  right: 247.50px;
+}
+/* Nav-Bar */
+
+/* Header */
+.star-background{
+  width: 100%;
+  position: relative;
+}
+
+.star-background img{
+  width: 100%;
+  position: absolute;
+  top: px;
+}
+
+.head-wrapper{
+  width: 100%;
+  height: 70px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: transparent;
+}
+
+.shadow-banner{
+  position: absolute;
+  width: 100%;
+  height: 55px;
+  box-shadow: 0px 20px 30px rgba(0, 0, 0);
+}
+
+.header-wrapper{
+  width: 100%;
+  height: 70px;
+  position: relative;
+  background-color: transparent;
+}
+
+.header-banner-image{
+  width: 100%;
+  position: absolute;
+  top: -1px;
+  background-color: transparent;
+}
+
+.valhalla-header{
+  width: 146px;
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  left: 35px;
+}
+
+.header-wrapper span{
+  font-size: 14px;
+  color: #FFFFFF;
+  font-weight: 600;
+  position: absolute;
+  top: 25px;
+}
+
+.down-arrow-icon{
+  width: 6.5px;
+  height: 5px;
+  position: absolute;
+  top: 30px;
+}
+
+.header-wrapper h2{
+  font-size: 18px;
+  color: #40C1A6;
+  font-family: 'Cinzel', serif;
+  position: absolute;
+  text-transform: uppercase;
+  top: 23px;
+  right: 30px;
+}
+/* Header */
+
+/* Body */
+.main-body{
+  width: 100%;
+  position: relative;
+}
+
+.banner-wrapper{
+  width: 100%;
+  height: 650px;
+  position: relative;
+  top: -70px;
+}
+
+.valhalla-poster{
+  width: 90%;
+  position: absolute;
+}
+
+.fire-sparkles{
+  width: 100%;
+  position: absolute;
+  top: -30px;
+}
+
+.valhalla-big-logo{
+  width: 300px;
+  position: absolute;
+  top: 90px;
+  right: 185px;
+}
+
+.video-wrapper{
+  width: 31.5%;
+  height: 269px;
+  position: absolute;
+  top: 210px;
+  right: 93px;
+  border: 1px solid #FFFFFF;
+}
+
+.video-replacement{
+  width: 100%;
+  height: 267px;
+  position: absolute;
+}
+
+.play-button{
+  width: 17.50%;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+
+.top-left-corner{
+  width: 12.50px;
+  position: absolute;
+  top: -2.50px;
+  left: -2.50px;
+}
+
+.bottom-right-corner{
+  width: 12.50px;
+  position: absolute;
+  bottom: -2.50px;
+  right: -2.50px;
+}
+
+.banner-wrapper span{
+  font-size: 14px;
+  color: #FFFFFF;
+  font-weight: 600;
+  position: absolute;
+}
+
+.Availability-1{
+  top: 495px;
+  right: 91.5px;
+}
+
+.Availability-2{
+  top: 515px;
+  right: 150px;
+}
+
+.button-wrapper{
+  width: 149.32px;
+  height: 40px;
+  position: absolute;
+  top: 550.5px;
+  right: 245px;
+}
+
+.button-wrapper button{
+  width: 74%;
+  height: 40px;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #FFFFFF;
+  padding: 0;
+  position: absolute;
+  right: 19.41px;
+  border: 0;
+  background-color: #3FC0AC;
+  border-top: 2px solid #FFFFFF;
+  border-bottom: 2px solid #FFFFFF;
+}
+
+.button-wrapper img{
+  width: 13%;
+  height: 40px;
+  position: absolute;
+}
+
+.right-button{
+  right: 0px;
+}
+
+/* News & Videos */
+
+.news-banner{
+  width: 100%;
+  height: 875px;
+  position: relative;
+  top: -40px;
+}
+
+.news-banner h2{
+  color: #FFFFFF;
+  font-size: 40px;
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 20px;
+  text-shadow: 0px 0px 2.50px rgb(155, 255, 220);
+}
+
+.news-wrapper{
+  width: 100%;
+  height: 593px;
+  margin: auto;
+  position: relative;
+  top: 20px;
+  background-image: url(Images/Other-Images/Star-Background.png);
+  background-repeat: no-repeat;
+  background-position: 0px -300px;
+  background-size: 100%;
+  background-color: transparent;
+}
+
+.news-headlines{
+  width: 27.90%;
+  height: 593px;
+  top: 0;
+  position: absolute;
+  border: 1px solid #FFFFFF;
+  background-color: rgba(8, 18, 22, 0.405);
+  background-image: url(Images/Other-Images/News-Banner-Pattern.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pos-1{
+  left: 70px;
+}
+
+.pos-2{
+  left: 550px;
+}
+
+.pos-3{
+  right: 70px;
+}
+
+.news-image{
+  width: 100%;
+}
+
+.news-details-wrapper{
+  padding: 25px 28px;
+  width: 100%;
+  top: 215.92px;
+  height: 373px;
+}
+
+.news-date{
+  text-transform: uppercase;
+  font-family: Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.read-time{
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-weight: 600;
+  display: block;
+  padding-top: 15px;
+}
+
+.news-title{
+  display: block;
+  font-size: 22px;
+  font-family: 'Cinzel', serif;
+  color: #FFFFFF;
+  font-weight: 800;
+  letter-spacing: -0.50px;
+  padding-top: 5px;
+  padding-right: 10px;
+  word-spacing: -1px;
+  line-height: 1;
+}
+
+.news-details{
+  display: block;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-weight: 500;
+  padding-top: 15px;
+  padding-right: 7.50px;
+  word-spacing: -0.50px;
+  line-height: 1.40;
+  text-align: left;
+}
+
+.read-more-btn{
+  font-family: Helvetica, sans-serif;
+  color: #40C1A6;
+  position: absolute;
+  bottom: 65px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.news-details-wrapper img{
+  width: 7px;
+  position: absolute;
+  bottom: 65.50px;
+  left: 120px;
+}
+
+.left-button-individual{
+  width: 15px;
+  position: absolute;
+  top: 715px;
+  left: 700px;
+}
+
+.margin-1{
+  left: 1px;
+}
+
+.right-button-individual{
+  width: 15px;
+  position: absolute;
+  top: 715px;
+  right: 700px;
+}
+
+
+
+/* News & Videos */
+
+/* Viking-Legend */
+
+.viking-legend{
+  width: 100%;
+  position: relative;
+  background-image: url(Images/Other-Images/Star-Background-2.png);
+  background-position: 0px 180px;
+  background-repeat: no-repeat;
+  background-size: 95%;
+}
+
+.viking-legend img{
+  width: 100%;
+  padding: 0px 5%;
+}
+
+.building{
+  font-family: 'Cinzel', Serif;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 57px;
+  position: absolute;
+  top: 500.50px;
+  left: 270px;
+  text-shadow: 0 10px 10px rgba(0,0,0,.85);
+}
+
+.building-2{
+  font-family: 'Cinzel', Serif;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 90px;
+  text-shadow: 0 10px 10px rgba(0,0,0,.85);
+  position: absolute;
+  top: 542.50px;
+  left: 270px;
+}
+
+.viking-para{
+  width: 850px;
+  margin-left: 270px;
+  margin-top: 55px;
+  font-family: Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-size: 16px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.viking-para-2{
+  width: 850px;
+  margin-left: 270px;
+  margin-top: 15px;
+  font-family: Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-size: 16px;
+  text-align: justify;
+  font-weight: 500;
+  padding-bottom: 90px;
+}
+
+/* Viking-Legend */
+
+/* features */
+
+.features-wrapper{
+  width: 90%;
+  margin: 0px auto;
+  background-image: url(Images/Other-Images/Features-Background-Illustration.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.feature{
+  width: 975px;
+  height: 415px;
+  margin: 0px auto;
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.left-image{
+  width: 715px;
+  height: 402.50px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.offwhite-page-left{
+  width: 342.50px;
+  height: 350px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.page-decoration-left{
+  width: 130px;
+  position: absolute;
+  left: 106.25px;
+}
+
+.feature-title-left{
+  width: 220px;
+  height: 75px;
+  position: absolute;
+  left: 60px;
+  top: 130px;
+}
+
+.feature-title-left span{
+  font-size: 35px;
+  color: #000000;
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+  position: absolute;
+  display: inline;
+  line-height: 1;
+  text-align: center;
+}
+
+.feature-details-left{
+  width: 270.50px;
+  height: 140px;
+  position: absolute;
+  top: 220px;
+  left: 36px;
+}
+
+.feature-details-left{
+  font-size: 14.50px;
+  color: #0D6861;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-family: 500;
+  line-height: 1.35;
+}
+
+.right-image{
+  width: 715px;
+  height: 402.50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.offwhite-page-right{
+  width: 342.50px;
+  height: 350px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.page-decoration-right{
+  width: 130px;
+  position: absolute;
+  right: 106.25px;
+}
+
+.feature-title-right{
+  width: 220px;
+  height: 75px;
+  position: absolute;
+  right: 62.50px;
+  top: 130px;
+}
+
+.different-width-1{
+  width: 280.50px;
+  right: 31px;
+  top: 150px;
+}
+
+.feature-title-right span{
+  font-size: 35px;
+  color: #000000;
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+  position: absolute;
+  display: inline;
+  line-height: 1;
+  text-align: center;
+}
+
+.feature-details-right{
+  width: 270.50px;
+  height: 140px;
+  position: absolute;
+  top: 220px;
+  right: 36px;
+}
+
+.feature-details-right{
+  font-size: 14.50px;
+  color: #0D6861;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-family: 500;
+  line-height: 1.35;
+}
+
+.feature-pos{
+  top: 205px;
+}
+
+.different-width-2{
+  width: 312.50px;
+  left: 15px;
+  top: 130px;
+}
+
+.features-end{
+  font-size: 16px;
+  font-family: 'Cinzel', serif;
+  color: #40C1A6;
+  text-align: center;
+}
+
+.features-end-border{
+  width: 20px;
+  margin: 5px auto 125px auto;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.open-world-1{
+  width: 100%;
+  position: relative;
+  background-color: transparent;
+  background-image: url(Images/Other-Images/Star-Background-2.png);
+  background-position: 0px 180px;
+  background-repeat: no-repeat;
+  background-size: 95%;
+}
+
+.open-world-1 img{
+  width: 100%;
+  padding: 0px 5%;
+}
+
+.new-position{
+  top: 505px;
+  left: 265px;
+  text-shadow: 0px 10px 10px rgb(0, 0, 0)
+}
+
+.new-pos{
+  margin-top: -10px;
+  padding-bottom: 132.50px;
+}
+
+/* features */
+
+/* Discover-More */
+
+.discover-wrapper{
+  width: 100%;
+  height: 650px;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
+  position: relative;
+  margin-top: 50px;
+}
+
+.discover-decoration-up{
+  width: 130px;
+  position: absolute;
+  top: -65px;
+  left: 694.60px;
+}
+
+.discover-decoration-down{
+  width: 130px;
+  position: absolute;
+  bottom: -65px;
+  left: 694.60px;
+}
+
+.discover-wrapper h1{
+  font-family: 'Cinzel', serif;
+  font-size: 40px;
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.discover-titles-wrapper{
+  width: 100%;
+  position: relative;
+}
+
+.discover-mid-line{
+  width: 1px;
+  height: 285px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 759.10px;
+}
+
+.discover{
+  width: 505px;
+  height: 475px;
+  position: absolute;
+}
+
+.discover-pos-1{
+  left: 160px;
+}
+
+.discover-pos-1 img{
+  width: 100%;
+}
+
+.discover-pos-2{
+  right: 160px;
+}
+
+.discover-pos-2 img{
+  width: 100%;
+}
+
+.discover-title{
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-weight: 600;
+  position: absolute;
+  top: 300px;
+  left: 0;
+}
+
+.discover-detail{
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  color: #FFFFFF;
+  padding-right: 70px;
+  position: absolute;
+  top: 330px;
+  left: 0;
+  line-height: 1.40;
+}
+
+.button-wrapper{
+  width: 149.32px;
+  height: 40px;
+  position: absolute;
+  top: 550.5px;
+  right: 245px;
+}
+
+.button-wrapper button{
+  width: 74%;
+  height: 40px;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #FFFFFF;
+  padding: 0;
+  position: absolute;
+  right: 19.41px;
+  border: 0;
+  background-color: #3FC0AC;
+  border-top: 2px solid #FFFFFF;
+  border-bottom: 2px solid #FFFFFF;
+}
+
+.button-wrapper img{
+  width: 13%;
+  height: 40px;
+  position: absolute;
+}
+
+.right-button{
+  right: 0px;
+}
+
+.new-btn-pos{
+  left: 0;
+  top: 430px;
+}
+
+.new-padding{
+  padding-right: 150px;
+}
+
+.news-button-position{
+  top: 775px;
+  right: 683.915px;
+}
+
+
+/* Discover-More */
+
+.body-end{
+  width: 100%;
+  height: 250px;
+  background-image: url(Images/Other-Images/Body-End.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* Body */
+
+/* Footer */
+.social-channels-wapper{
+  width: 100%;
+  height: 60px;
+  background-color: #000000;
+  position: relative;
+}
+
+.social-channels-wapper span{
+  font-size: 14px;
+  color: #888787;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  position: absolute;
+  text-transform: capitalize;
+  left: 40px;
+  top: 20px;
+  font-weight: 100;
+}
+
+.social-channels{
+  width: 370px;
+  height: 60px;
+  padding: 14px 0px;
+  position: absolute;
+  left: 574.60px;
+}
+
+.social-channels img{
+  width: 30px;
+  margin: 0px 9.50px;
+}
+
+.footer-wrapper{
+  width: 100%;
+  height: 600px;
+}
+
+.footer-wrapper-left{
+  width: 25%;
+  height: 600px;
+  background-color: #1D1E21;
+  float: left;
+  position: relative;
+  padding: 50px 35px 60px 60px;
+}
+
+.footer-wrapper-right{
+  width: 75%;
+  height: 600px;
+  background-color: #06151F;
+  float: left;
+  position: relative;
+  padding: 50px 0px 0px 62px;
+}
+
+.footer-wrapper-left img{
+  width: 175px;
+}
+
+.footer-left-headings{
+  font-size: 22px;
+  font-weight: 600;
+  color: #FFFFFF;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -1px;
+  word-spacing: -1px;
+  position: absolute;
+  top: 150px;
+  left: 60px;
+  text-transform: uppercase;
+}
+
+.footer-left-pos-2{
+  top: 185px;
+}
+
+.footer-left-pos-3{
+  top: 220px;
+}
+
+.footer-left-pos-4{
+  top: 255px;
+}
+
+.footer-left-pos-5{
+  top: 290px;
+}
+
+.footer-left-legal{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  letter-spacing: -1px;
+  word-spacing: -1px;
+  position: absolute;
+  top: 350px;
+  left: 60px;
+}
+
+.footer-left-legal-pos-1{
+  top: 375px;
+}
+
+.footer-left-legal-pos-2{
+  top: 400px;
+}
+
+.footer-left-legal-pos-3{
+  top: 425px;
+}
+
+.valhalla-logo-footer{
+  width: 275px;
+}
+
+.studio{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: #C9C9C9;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 185px;
+  left: 62px;
+}
+
+.studio-location{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  position: absolute;
+  top: 210px;
+  left: 62px;
+}
+
+.studio-pos{
+  top: 230px;
+}
+
+.platform{
+  left: 250px;
+}
+
+.platform-pos{
+  top: 210px;
+}
+
+.platform-pos-1{
+  top: 250px;
+}
+
+.platform-pos-2{
+  top: 290px;
+}
+
+.platform-pos-3{
+  top: 330px;
+}
+
+.platform-pos-4{
+  top: 370px;
+}
+
+.platform-pos-5{
+  top: 410px;
+}
+
+.platform-pos-6{
+  top: 450px;
+}
+
+.partners{
+  left: 520px;
+}
+
+.language-selector-icon{
+  width: 30px;
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.language{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  position: absolute;
+  top: 50px;
+  right: 85px;
+}
+
+.language-arrow{
+  width: 14px;
+  position: absolute;
+  top: 60px;
+  right: 65px;
+}
+
+.rating{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 155px;
+  right: 40px;
+}
+
+.rating-bold{
+  font-weight: 600;
+  text-decoration: underline;
+  bottom: 140px;
+  right: 75px;
+}
+
+.rating-image{
+  width: 50px;
+  position: absolute;
+  bottom: 70px;
+  right: 130px;
+}
+
+.copyright{
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #FFFFFF;
+  word-spacing: -2px;
+  position: absolute;
+  left: 62px;
+  bottom: 50px;
+}
+
+.copyright-pos{
+  left: 145px;
+  bottom: 35px;
+}
+/* Footer */
